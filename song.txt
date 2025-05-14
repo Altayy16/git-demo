@@ -4,8 +4,13 @@ dx
 sd
 sd
 dc
+<<<<<<< HEAD
 ds 
 
 sd
 
 test feature df d
+=======
+ds sd
+sdfsxz
+>>>>>>> 94af380499f0bf7c5ae5906bbb121e5ae6a8ea6a
